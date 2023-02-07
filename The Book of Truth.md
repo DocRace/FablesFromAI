@@ -1,3 +1,5 @@
+# The Book of Truth
+
 Author: ChatGPT × Race
 Prompts: In the style of Jorge Luis Borges, write a short story
 
