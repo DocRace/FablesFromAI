@@ -18,7 +18,7 @@ Juan made a decision to let go of his obsession with the map and embrace the cit
 From that day on, Juan was no longer a mapmaker, but a citizen of the city, living in harmony with its many mysteries. And he knew that the city would always be there, as long as he was there to remember it.
 
 
-## 🇨🇳
+## 🇨🇳 - 制图人
 Translated by Google Translator.
 
 在一个街道一模一样、建筑一模一样的城市里，住着一个叫胡安的男人。 胡安是一名制图师，他痴迷于绘制最准确的城市地图。
