@@ -1,7 +1,7 @@
 # The Mapmaker
 
 Author: ChatGPT × Race
-Prompts: In the style of Jorge Luis Borges, write a short story
+Prompts: Write a short story, in the style of writter Jorge Luis Borges
 
 In a city where all the streets were identical and all the buildings looked alike, there lived a man named Juan. Juan was a mapmaker, and he was obsessed with creating the most accurate map of the city.
 
