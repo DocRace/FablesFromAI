@@ -6,3 +6,4 @@
 - The Alternative (替代者)
 - The Fabled Land (应允之地)
 - The Retired Merchant (退休的商人)
+- ChatGPT's Slaves (ChatGPT的奴隶)
