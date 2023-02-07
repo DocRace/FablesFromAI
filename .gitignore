@@ -16,6 +16,9 @@ Pods/
 .AppleDouble
 .LSOverride
 
+# Obsidian #
+.obsidian
+
 # Icon must end with two \r
 Icon
 
