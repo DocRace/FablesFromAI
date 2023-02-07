@@ -8,3 +8,4 @@
 - The Retired Merchant (退休的商人)
 - ChatGPT's Slaves (ChatGPT的奴隶)
 - The Disconnector (断线人)
+- Farmer with nihilism (虚无主义的农民)
